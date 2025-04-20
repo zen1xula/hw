@@ -1,0 +1,15 @@
+.bg-box {
+  width: 1020px;
+  height: 500px;
+  background-color: green;
+  background-image: url(./imgs/home.png)
+    url(https://www.freeiconspng.com/im/44873#google_vignette);
+  background-position: top, bottom;
+  background-size: 20px, 30px;
+  background-repeat: repeat-x, repeat-x;
+}
+.gradient {
+  width: 200px;
+  height: 200px;
+  background-image: linear-gradient(200deg, red, blue, green);
+}
